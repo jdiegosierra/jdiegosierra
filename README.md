@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"Time is the currency we must invest to become better engineers"
+"Time is the stock option we must invest to become better engineers"
 
 Passioned about:
 
