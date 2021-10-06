@@ -2,6 +2,9 @@
 
 "Time is the currency which we must use to invest in being better engineers"
 
+![Alt Text](https://media.giphy.com/media/0YwFqbWgUeznUDlOWm/giphy.gif)
+
+
 Passioned about:
 
 - 🎧 Dj, Music Production and Festivals enthusiastic: Indie, Rock & Electronic music.
