@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-"Time is the stock option we must invest to become better engineers"
+"Time is the currency which we must use to invest in being better engineers"
 
 Passioned about:
 
-- 🤾 Handball: 10 years playing on the 3th best team of Spain.
 - 🎧 Dj, Music Production and Festivals enthusiastic: Indie, Rock & Electronic music.
-- 👾 Videogames: Fond of esports and its growth around the globe.
-- 📈 Stock Investing: I don't have lost money yet. 
+- 👾 Videogames: Fond of Eelectronic Sports and its growth around the globe.
+- 📈 Stock Investing: I don't have lost money yet.
+- 🤾 Handball: 10 years playing on the 3th best team of Spain.
 
 <!--
 **jdiegosierra/jdiegosierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
