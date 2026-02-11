@@ -38,7 +38,7 @@
 
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+*"Time is the currency we have to buy knowledge."*
 
 </div>
 
